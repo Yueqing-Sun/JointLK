@@ -1,6 +1,6 @@
 # JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering
 
-This repo provides the source code & data of our paper: [JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering](https://arxiv.org/abs/2112.02732) (NAACL 2021).
+This repo provides the source code & data of our paper: [JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering](https://arxiv.org/abs/2112.02732) (NAACL 2022).
 
 For convenience, all data, checkpoints and codes can be downloaded from my [Baidu Netdisk](https://pan.baidu.com/s/1WsEukLdrHELu6q9_qj8NBA?pwd=y5sd).
 
